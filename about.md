@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 published: true
 ---
-## Hello everyone !
+Hello everyone !
+
 This is a blog  of a very opinionated geek, namely [me](www.minhaj.me). Although I may write about anything that strikes my fancy or my browser, but I have a few common topics which you can recognise by the tags. I am a proud geek, profound gamer, programmer by trade, and I tend to have rather logical opinions which I keep preserved in my mind palace unless required.
 
 For those of you who are interested in some personal facts, I am a 4th year college student enrolled in Computer Science stream of B.Tech. I got interested in web developing and designing after the Industrial training programme which I took during my summer break after first year of college. Then there's no stopping me from fulfilling my insatiable lust for knowledge.
